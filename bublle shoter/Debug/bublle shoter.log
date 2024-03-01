@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\DELL\Desktop\bublle shoter\Source.cpp(81,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\bublle shoter\Source.cpp(82,21): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\bublle shoter\Source.cpp(140,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\bublle shoter\Source.cpp(140,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\bublle shoter\Source.cpp(229,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\bublle shoter\Source.cpp(229,32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  bublle shoter.vcxproj -> C:\Users\DELL\Desktop\bublle shoter\Debug\bublle shoter.exe
